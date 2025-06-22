@@ -1,0 +1,13 @@
+name = "More Statistics"
+filename = "more-statistics-v2.3.11-mc1.21.6.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/EhoUIqvO/versions/HXd9cHJ7/more-statistics-v2.3.11-mc1.21.6.jar"
+hash-format = "sha512"
+hash = "5c45f371ec445dae8a5212ec81c7d62444ba88ada6fb24a7735def8f729c664305f5519c7ba6e246f7facc2474d5b3960ec11c618259f93a2ecc3b20dcac5e6a"
+
+[update]
+[update.modrinth]
+mod-id = "EhoUIqvO"
+version = "HXd9cHJ7"

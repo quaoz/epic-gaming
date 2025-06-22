@@ -1,0 +1,13 @@
+name = "Rug"
+filename = "rug-mc1.21.1-v1.6.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/VishnYFF/versions/q7Q2e7TM/rug-mc1.21.1-v1.6.1.jar"
+hash-format = "sha512"
+hash = "cf0985d6000fd5025070c8262a4e1f0c41ffdff28a2ec26bdeeabf588cbf7b8f8bb44b985be64c7b2b68a231169e45f446dfa39806f4db7a558b2fed055cb6fa"
+
+[update]
+[update.modrinth]
+mod-id = "VishnYFF"
+version = "q7Q2e7TM"

@@ -1,0 +1,16 @@
+name = "epic-gaming"
+author = "quaoz"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "d650d773a23e31e8b8d4f745ebdd092d39f31176bd8239e803ee8dfb63455613"
+
+[versions]
+fabric = "0.16.14"
+minecraft = "1.21.6"
+
+[options]
+acceptable-game-versions = ["1.21"]

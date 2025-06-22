@@ -1,0 +1,13 @@
+name = "YetAnotherCarpetAddition"
+filename = "yetanothercarpetaddition-v1.3.5.4-mc1.21.1+build.14.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/Iib8xwCx/versions/tuvfIbDI/yetanothercarpetaddition-v1.3.5.4-mc1.21.1%2Bbuild.14.jar"
+hash-format = "sha512"
+hash = "e2c253937bef9aa6902e8f3ff2bc43358d43c25829e63eeeaa6474807642308226688007c58085a76a275a3cecd3674a50561219bf9861095e00165b541f6816"
+
+[update]
+[update.modrinth]
+mod-id = "Iib8xwCx"
+version = "tuvfIbDI"

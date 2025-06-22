@@ -1,0 +1,13 @@
+name = "Minitweaks"
+filename = "minitweaks-1.21-1.5.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/gdCHYfN8/versions/cmIS5uak/minitweaks-1.21-1.5.0.jar"
+hash-format = "sha512"
+hash = "e2a942500b1009adc6d78a743acde923633a14d94294ffae56b63deb6a944ca476a8dbf4b0f08c4fea0d892c082fadb9fb1ca56ff73dd3fa4d3274ac803d7f20"
+
+[update]
+[update.modrinth]
+mod-id = "gdCHYfN8"
+version = "cmIS5uak"

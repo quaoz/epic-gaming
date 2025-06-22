@@ -1,0 +1,13 @@
+name = "Cull Particles MultiLoader"
+filename = "cullparticles-fabric-1.21-1.0.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Z0uZlmbF/versions/2ajLKOak/cullparticles-fabric-1.21-1.0.0.jar"
+hash-format = "sha512"
+hash = "a56046ce17b2e3834a2ae6137680d977b309389051f1e55501401ad7bc67c926573d63a502c5035abc718b3ffc0e203378d23b55c10b854187b8aeb88ebd0f4f"
+
+[update]
+[update.modrinth]
+mod-id = "Z0uZlmbF"
+version = "2ajLKOak"
