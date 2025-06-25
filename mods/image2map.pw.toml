@@ -1,6 +1,6 @@
 name = "Image2Map"
 filename = "image2map-0.10.1+1.21.6.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/13RpG7dA/versions/bJYNHoyD/image2map-0.10.1%2B1.21.6.jar"

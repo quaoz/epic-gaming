@@ -1,6 +1,6 @@
 name = "Minitweaks"
 filename = "minitweaks-1.21.6-1.5.3.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/gdCHYfN8/versions/JdWsWeXB/minitweaks-1.21.6-1.5.3.jar"

@@ -1,6 +1,6 @@
 name = "MiniMOTD"
 filename = "minimotd-fabric-mc1.21-2.1.2.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/16vhQOQN/versions/4C2SmCNo/minimotd-fabric-mc1.21-2.1.2.jar"

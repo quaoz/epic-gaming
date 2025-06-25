@@ -1,6 +1,6 @@
 name = "Server Chat Sync"
 filename = "ServerChatSync-fabric-1.0.0.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/pGKfWt9W/versions/p7mpkhOc/ServerChatSync-fabric-1.0.0.jar"

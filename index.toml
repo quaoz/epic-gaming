@@ -46,6 +46,11 @@ hash = "b062d71c371b3361e700edb4db46acd1a1feed6c91b95764e08e03cdb25ba1f5"
 metafile = true
 
 [[files]]
+file = "disabled/fastback.pw.toml"
+hash = "969fc702a1f4cd3eddf68320b2325c8253759ceec5e5795e1ff060203ff755e7"
+metafile = true
+
+[[files]]
 file = "disabled/flashback.pw.toml"
 hash = "6619cc397cc42ba6f094a91c3f9c92995c2f0c0443323f8d3ca64633d545c2ab"
 metafile = true
@@ -182,7 +187,7 @@ metafile = true
 
 [[files]]
 file = "mods/carpet-extra.pw.toml"
-hash = "f98e6314ff6993192eb4aad44a98b6d790568ee371ea42ec4da24b1124cb853e"
+hash = "8eff563d3aa88485a9f0ff72f94616c500aab6fd0e487847b9f37639314828fc"
 metafile = true
 
 [[files]]
@@ -227,7 +232,7 @@ metafile = true
 
 [[files]]
 file = "mods/essential-commands.pw.toml"
-hash = "3f792def51ea9ab711fef5547b3848bd2488801dedcd950204c844771d4a4fd7"
+hash = "e9b53eb6141654ca19ca59315c7648cc08e44a453fafd6d2f5a81a39c3ac73cd"
 metafile = true
 
 [[files]]
@@ -248,11 +253,6 @@ metafile = true
 [[files]]
 file = "mods/fast-ip-ping.pw.toml"
 hash = "c9babfbb0db58f9edfc38666af8ef4ce24fe0cd0594d3c421bb51410fb6c3fa2"
-metafile = true
-
-[[files]]
-file = "mods/fastback.pw.toml"
-hash = "7fb5d60c177cf646e367c88c7023e777af1ccb15024b35b0517592e8eba36605"
 metafile = true
 
 [[files]]
@@ -277,7 +277,7 @@ metafile = true
 
 [[files]]
 file = "mods/image2map.pw.toml"
-hash = "404e65a8dddd429f133df9fda9acfa81488ff72ae5a04d4d4293a0e0fdbeba83"
+hash = "378826509b99c8982eb13aec4f9a62ee815cbd300170ff94f993a90e97757f2e"
 metafile = true
 
 [[files]]
@@ -297,7 +297,7 @@ metafile = true
 
 [[files]]
 file = "mods/itemflexer.pw.toml"
-hash = "d4841c603d76cf9f175f06c7ec4456ba0582bf6f5c3b99f4644105b9f45f85bf"
+hash = "3f112c706e7a71f73cb7be71171c17b0b7da610d6ba7568ffbcfb9f2a55067bb"
 metafile = true
 
 [[files]]
@@ -337,12 +337,12 @@ metafile = true
 
 [[files]]
 file = "mods/minimotd.pw.toml"
-hash = "092e13251deffc57cbe2d4bb863960bf7caf6b7f049a93732cacdcbf77377c84"
+hash = "43e5e8e67dc00eb85b6d7a3c425a1420d91a0bf6827766c35aa654e58b50ac0b"
 metafile = true
 
 [[files]]
 file = "mods/minitweaks.pw.toml"
-hash = "7f52b576646ec861f941e02c793daf743748177936b9fa4361a37c98f3ee7af8"
+hash = "c709008696534f0bee90bd12eef006efd075450b0a38b5e9d69513aca2398385"
 metafile = true
 
 [[files]]
@@ -362,7 +362,7 @@ metafile = true
 
 [[files]]
 file = "mods/more-statistics.pw.toml"
-hash = "c84c42ad0ea10b234b663b618cb777caaa2b5949abb8d6b04bfa70b21a5b0534"
+hash = "715ac6637b1fb7d47b30968bc7f3970b5db92e6083e6bb351af4b78370024482"
 metafile = true
 
 [[files]]
@@ -397,7 +397,7 @@ metafile = true
 
 [[files]]
 file = "mods/polymer.pw.toml"
-hash = "2a03691b8b7b51c05a54ca26982962a18df989c60bfe05e8c2828633cf9b1a6d"
+hash = "f2a2c951652316cfc12fef4179f5d3ec6571110207e1f7141f84d3b23a137b13"
 metafile = true
 
 [[files]]
@@ -417,12 +417,12 @@ metafile = true
 
 [[files]]
 file = "mods/server-chat-sync.pw.toml"
-hash = "df4da583d97be6d6388cfee242588045e698afee43be092498c9f9b36d6b81b1"
+hash = "81896c050c269cfbb4a4c2959d7c427b832a7e81db26283013b1492cedcd2960"
 metafile = true
 
 [[files]]
 file = "mods/servux.pw.toml"
-hash = "6d3c94fc9c3b70028e9630ffcc291f5d6027b264e4401b22e8ce35d85a122d9d"
+hash = "1a71c659af94931a39d1cfebfe9c6660e16758dbdb64c4b38c805d22aed56084"
 metafile = true
 
 [[files]]
@@ -452,7 +452,7 @@ metafile = true
 
 [[files]]
 file = "mods/timeoutout.pw.toml"
-hash = "c83fbd7c8ebe356a6cdf36fff85c516f0d0e049ea914169f4b0fc094111c903e"
+hash = "8eb676c3f60e847715828e28ac1dc41ee85df4dcffcad95047e8044febe18f93"
 metafile = true
 
 [[files]]
@@ -467,7 +467,7 @@ metafile = true
 
 [[files]]
 file = "mods/universal-graves.pw.toml"
-hash = "3a3eac5ffe0a6299390ee43c0dcefacf1884164949ccbf32d9e862e4de4beecb"
+hash = "7e47658ab39b99e342912c71a594708080d2b2236461ddf78871ac827b807884"
 metafile = true
 
 [[files]]
