@@ -136,6 +136,11 @@ hash = "a8a2850708ac58b66206893248fcfdcca6941a071a148c39c6b0d7ff841bc58c"
 metafile = true
 
 [[files]]
+file = "disabled/server-chat-sync.pw.toml"
+hash = "81896c050c269cfbb4a4c2959d7c427b832a7e81db26283013b1492cedcd2960"
+metafile = true
+
+[[files]]
 file = "disabled/squaremap.pw.toml"
 hash = "99acfa7f29bb9a59646dbceec56ce05c17753e148f35b7152de7f7953f76c4d2"
 metafile = true
@@ -413,11 +418,6 @@ metafile = true
 [[files]]
 file = "mods/rrls.pw.toml"
 hash = "05f1af7279a9c9c21e4d3a5ffd2ba0816b8cad9011132da810bbfc79cc468a88"
-metafile = true
-
-[[files]]
-file = "mods/server-chat-sync.pw.toml"
-hash = "81896c050c269cfbb4a4c2959d7c427b832a7e81db26283013b1492cedcd2960"
 metafile = true
 
 [[files]]
