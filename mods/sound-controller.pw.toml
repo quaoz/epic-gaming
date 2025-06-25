@@ -1,13 +1,13 @@
 name = "Sound Controller"
-filename = "soundcontroller-v1.2.2-mc1.20.5.jar"
+filename = "soundcontroller-1.2.3-mc1.21.6.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/uY9zbflw/versions/x6YcoLjV/soundcontroller-v1.2.2-mc1.20.5.jar"
+url = "https://cdn.modrinth.com/data/uY9zbflw/versions/OhmMfRNt/soundcontroller-1.2.3-mc1.21.6.jar"
 hash-format = "sha512"
-hash = "ab557a655bb4f0e7cba7971ffe33ba35f1f7460aaeb7ca43d8dcc0399d185313527dd230df6d035f2af6d138e77874d37e9f73cb42dec5ec9305066ba8bb1cd8"
+hash = "bd9fad267ae8c7743d793db26c55ae8d119e2eeabf4612945c4d1f985cb1555bdc11b136797ddd636020c89ccb2a517b32928bac25e0c59cffa3caf8a25887a8"
 
 [update]
 [update.modrinth]
 mod-id = "uY9zbflw"
-version = "x6YcoLjV"
+version = "OhmMfRNt"
