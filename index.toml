@@ -1,6 +1,146 @@
 hash-format = "sha256"
 
 [[files]]
+file = "disabled/beer.pw.toml"
+hash = "f15f1c6cc311134677979cd36ee92426d5b9a3a6f6d5dbb9a0a5ea939ce44f97"
+metafile = true
+
+[[files]]
+file = "disabled/capes.pw.toml"
+hash = "c899acdc322ab52800a6e305a16427297f411c1c39d97983be96e8b6a34e157c"
+metafile = true
+
+[[files]]
+file = "disabled/cit-resewn.pw.toml"
+hash = "6d511d91e17e09d36b0b0c7065b07eb604146bc9f3df0fbc932948aaf33aa440"
+metafile = true
+
+[[files]]
+file = "disabled/continuity.pw.toml"
+hash = "4f97764f3cb4c74f84afbe32cf8a1d2cefecda129c0f1441906562dcb8f2b8cb"
+metafile = true
+
+[[files]]
+file = "disabled/cull-particles-multiloader.pw.toml"
+hash = "f1cc7b2c96539683e14cf2e19db880a4dcdfd307b93653fe30d671a97dca4df5"
+metafile = true
+
+[[files]]
+file = "disabled/debugify.pw.toml"
+hash = "06fd83587240ff6b6089912d7ce917e0276bfd821fe356baf584dfb8a918e6f2"
+metafile = true
+
+[[files]]
+file = "disabled/distanthorizons.pw.toml"
+hash = "e671b34a87954b97e1cb33ac6ea7ed10556efc7eb29107755000c0394e9d1448"
+metafile = true
+
+[[files]]
+file = "disabled/ebe.pw.toml"
+hash = "b1f89407254a20cde6c60994a6315bd841b7f562669a1d29b436ec97463ff2ae"
+metafile = true
+
+[[files]]
+file = "disabled/fabrishot.pw.toml"
+hash = "b062d71c371b3361e700edb4db46acd1a1feed6c91b95764e08e03cdb25ba1f5"
+metafile = true
+
+[[files]]
+file = "disabled/flashback.pw.toml"
+hash = "6619cc397cc42ba6f094a91c3f9c92995c2f0c0443323f8d3ca64633d545c2ab"
+metafile = true
+
+[[files]]
+file = "disabled/g4mespeed.pw.toml"
+hash = "8178634b60c72c5e43c3d37257d92556101f6092669e95db21560baf124029aa"
+metafile = true
+
+[[files]]
+file = "disabled/isometric-renders.pw.toml"
+hash = "b1cac071cb6ed30dddd4c46ad0186fa97d7a8de157eb61e70fe3c69554200d4c"
+metafile = true
+
+[[files]]
+file = "disabled/jsonem.pw.toml"
+hash = "9268b3b7b3fb37151d0e2736c157a6dbb25b9b561bfb26b1e3975c7217e74aef"
+metafile = true
+
+[[files]]
+file = "disabled/litemoretica.pw.toml"
+hash = "9db8919c1453f2a19c76156bcc6364c75664fd139cb177b32e08d782f7ff8dc8"
+metafile = true
+
+[[files]]
+file = "disabled/minimap-sync.pw.toml"
+hash = "b9f7063cab944e03a344e56a097c046b70d4252d00f576ffe47a96b436764233"
+metafile = true
+
+[[files]]
+file = "disabled/modernfix.pw.toml"
+hash = "6be7edd9b88632678b25f96b46c1cb79dcc0d92f7165dee84421661b50683090"
+metafile = true
+
+[[files]]
+file = "disabled/moremcmeta-emissive.pw.toml"
+hash = "c6956d234320d96687b0303999bf0e43adc76fa7a8810bd9750b29e327b5d353"
+metafile = true
+
+[[files]]
+file = "disabled/moremcmeta.pw.toml"
+hash = "0520003621fdf791e4042b1f61a8dd54d3746f3cf1b667252170b3006d0ac374"
+metafile = true
+
+[[files]]
+file = "disabled/nuit-interop.pw.toml"
+hash = "556fddf5f52f49d9acf41e4db737e5431c1b45e60f5e0c04ca1de70b01dd1d15"
+metafile = true
+
+[[files]]
+file = "disabled/nuit.pw.toml"
+hash = "c78c2d26feb460adb112cda9ec5073f8968298f1d215eb8679fd67f55f3c3124"
+metafile = true
+
+[[files]]
+file = "disabled/owo-lib.pw.toml"
+hash = "60a3d23eb73106ecb6ba5a391d4539e3557cbd9b1f3611a2de08052155d78b3a"
+metafile = true
+
+[[files]]
+file = "disabled/paginatedadvancements.pw.toml"
+hash = "110132a70b524eaadb750bc110c9344d84432da97a5434ae185e815d778d21f0"
+metafile = true
+
+[[files]]
+file = "disabled/polytone.pw.toml"
+hash = "5c0dd0b71231d749b18d77ec75cbe08d169463bf6d5623a88d60302cba3a736e"
+metafile = true
+
+[[files]]
+file = "disabled/raised-clouds.pw.toml"
+hash = "894ad6d211b953322fcae0d511e335e333f508a9edb2682d68b119d159e4b83f"
+metafile = true
+
+[[files]]
+file = "disabled/rug.pw.toml"
+hash = "a8a2850708ac58b66206893248fcfdcca6941a071a148c39c6b0d7ff841bc58c"
+metafile = true
+
+[[files]]
+file = "disabled/squaremap.pw.toml"
+hash = "99acfa7f29bb9a59646dbceec56ce05c17753e148f35b7152de7f7953f76c4d2"
+metafile = true
+
+[[files]]
+file = "disabled/techutils.pw.toml"
+hash = "9aae11b36577ae4dd279dec0fb5ae75406400181182c19a25a0097a969d1191a"
+metafile = true
+
+[[files]]
+file = "disabled/yaca.pw.toml"
+hash = "06916002f78fa8a1259abc28a35f19eee9e2b628820d310b6863e5c0d7d57fbd"
+metafile = true
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "1420a131db32fa1b7c265f482a1cc7e4b70a6d748c8f4dcddfc6b3ae6dc31a28"
 metafile = true
@@ -18,11 +158,6 @@ metafile = true
 [[files]]
 file = "mods/badstdout.pw.toml"
 hash = "b2f2254fda825a08d1d41a6dcbeada190c772fda4e06ee06c1a8e6a6c7be51f7"
-metafile = true
-
-[[files]]
-file = "mods/beer.pw.toml"
-hash = "f15f1c6cc311134677979cd36ee92426d5b9a3a6f6d5dbb9a0a5ea939ce44f97"
 metafile = true
 
 [[files]]
@@ -46,11 +181,6 @@ hash = "81b4d9ca4fc361ce8f61d70bf5f5e49f7d702c57150883d517cf6d8cd583ee55"
 metafile = true
 
 [[files]]
-file = "mods/capes.pw.toml"
-hash = "c899acdc322ab52800a6e305a16427297f411c1c39d97983be96e8b6a34e157c"
-metafile = true
-
-[[files]]
 file = "mods/carpet-extra.pw.toml"
 hash = "f98e6314ff6993192eb4aad44a98b6d790568ee371ea42ec4da24b1124cb853e"
 metafile = true
@@ -71,11 +201,6 @@ hash = "b1da0afe23273616b36e2c6d815819ea43ff3847db20639067cfa8e13e930753"
 metafile = true
 
 [[files]]
-file = "mods/cit-resewn.pw.toml"
-hash = "6d511d91e17e09d36b0b0c7065b07eb604146bc9f3df0fbc932948aaf33aa440"
-metafile = true
-
-[[files]]
 file = "mods/client-commands.pw.toml"
 hash = "f1c79405d4216e75f265759211620dc6e723abfd7b02ec3f8731d3645294dd8b"
 metafile = true
@@ -83,31 +208,6 @@ metafile = true
 [[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "a216e613b5ada8a83972394c8b52331388f6d3e41187a04c3bced3f1752bea70"
-metafile = true
-
-[[files]]
-file = "mods/continuity.pw.toml"
-hash = "4f97764f3cb4c74f84afbe32cf8a1d2cefecda129c0f1441906562dcb8f2b8cb"
-metafile = true
-
-[[files]]
-file = "mods/cull-particles-multiloader.pw.toml"
-hash = "f1cc7b2c96539683e14cf2e19db880a4dcdfd307b93653fe30d671a97dca4df5"
-metafile = true
-
-[[files]]
-file = "mods/debugify.pw.toml"
-hash = "06fd83587240ff6b6089912d7ce917e0276bfd821fe356baf584dfb8a918e6f2"
-metafile = true
-
-[[files]]
-file = "mods/distanthorizons.pw.toml"
-hash = "e671b34a87954b97e1cb33ac6ea7ed10556efc7eb29107755000c0394e9d1448"
-metafile = true
-
-[[files]]
-file = "mods/ebe.pw.toml"
-hash = "b1f89407254a20cde6c60994a6315bd841b7f562669a1d29b436ec97463ff2ae"
 metafile = true
 
 [[files]]
@@ -146,11 +246,6 @@ hash = "f217a0233c8aef84e914e1f8e90718be2496a923725215190d375ab3140379ab"
 metafile = true
 
 [[files]]
-file = "mods/fabrishot.pw.toml"
-hash = "b062d71c371b3361e700edb4db46acd1a1feed6c91b95764e08e03cdb25ba1f5"
-metafile = true
-
-[[files]]
 file = "mods/fast-ip-ping.pw.toml"
 hash = "c9babfbb0db58f9edfc38666af8ef4ce24fe0cd0594d3c421bb51410fb6c3fa2"
 metafile = true
@@ -171,11 +266,6 @@ hash = "fbf9806c22ee5bccbe08f7dec15b742f5ae3a70caf186d6dce0d42f28790f559"
 metafile = true
 
 [[files]]
-file = "mods/flashback.pw.toml"
-hash = "6619cc397cc42ba6f094a91c3f9c92995c2f0c0443323f8d3ca64633d545c2ab"
-metafile = true
-
-[[files]]
 file = "mods/forge-config-api-port.pw.toml"
 hash = "cee7b9a65f1d8625f9c103486e8b91edf6bb03b36ab2430fd927ec0d687ce8db"
 metafile = true
@@ -183,11 +273,6 @@ metafile = true
 [[files]]
 file = "mods/fps-reducer.pw.toml"
 hash = "953e25ca359857ce401e62bff8cf96133fd1e78b6982f2db2a66940a41031686"
-metafile = true
-
-[[files]]
-file = "mods/g4mespeed.pw.toml"
-hash = "8178634b60c72c5e43c3d37257d92556101f6092669e95db21560baf124029aa"
 metafile = true
 
 [[files]]
@@ -206,11 +291,6 @@ hash = "e3ed2c112bfe0abbc4d2c52c7d4c2086fe136e133784775c2f5a43d8f899868c"
 metafile = true
 
 [[files]]
-file = "mods/isometric-renders.pw.toml"
-hash = "b1cac071cb6ed30dddd4c46ad0186fa97d7a8de157eb61e70fe3c69554200d4c"
-metafile = true
-
-[[files]]
 file = "mods/item-scroller.pw.toml"
 hash = "2b8c0c6dc1faf486daf856f084f85cf347a586dccec41b808228a5634e5fa44b"
 metafile = true
@@ -218,11 +298,6 @@ metafile = true
 [[files]]
 file = "mods/itemflexer.pw.toml"
 hash = "d4841c603d76cf9f175f06c7ec4456ba0582bf6f5c3b99f4644105b9f45f85bf"
-metafile = true
-
-[[files]]
-file = "mods/jsonem.pw.toml"
-hash = "9268b3b7b3fb37151d0e2736c157a6dbb25b9b561bfb26b1e3975c7217e74aef"
 metafile = true
 
 [[files]]
@@ -246,11 +321,6 @@ hash = "a154647755d574d084bd68750b1e675cf567c67540fa426d6a3af4d88ed18c30"
 metafile = true
 
 [[files]]
-file = "mods/litemoretica.pw.toml"
-hash = "9db8919c1453f2a19c76156bcc6364c75664fd139cb177b32e08d782f7ff8dc8"
-metafile = true
-
-[[files]]
 file = "mods/lithium.pw.toml"
 hash = "11b5a9241c028f5e3cf9befd6975ec80cff1497a7dd23dde17c0f74e9a7b7a52"
 metafile = true
@@ -263,11 +333,6 @@ metafile = true
 [[files]]
 file = "mods/minihud.pw.toml"
 hash = "57d1193c51a0681c4f3676edbc2dbfd4b2b16c4314bb55cfcdf7e124cfb702e8"
-metafile = true
-
-[[files]]
-file = "mods/minimap-sync.pw.toml"
-hash = "b9f7063cab944e03a344e56a097c046b70d4252d00f576ffe47a96b436764233"
 metafile = true
 
 [[files]]
@@ -291,11 +356,6 @@ hash = "14800fc12fd4b92497c0f26455523783bdf59194233bdaa71d4864b3d436929a"
 metafile = true
 
 [[files]]
-file = "mods/modernfix.pw.toml"
-hash = "6be7edd9b88632678b25f96b46c1cb79dcc0d92f7165dee84421661b50683090"
-metafile = true
-
-[[files]]
 file = "mods/modmenu.pw.toml"
 hash = "acc6771f8754ea3ce060a5809c032f880b2b93962a96128b8c9413a801bf6467"
 metafile = true
@@ -316,16 +376,6 @@ hash = "70676593e513e1499486765b8f654cb5034a20a2642a3bcc61a6f57c9d985972"
 metafile = true
 
 [[files]]
-file = "mods/moremcmeta-emissive.pw.toml"
-hash = "c6956d234320d96687b0303999bf0e43adc76fa7a8810bd9750b29e327b5d353"
-metafile = true
-
-[[files]]
-file = "mods/moremcmeta.pw.toml"
-hash = "0520003621fdf791e4042b1f61a8dd54d3746f3cf1b667252170b3006d0ac374"
-metafile = true
-
-[[files]]
 file = "mods/no-telemetry.pw.toml"
 hash = "ebd48452773a4b6b4b7dcedbfb71c8986ec97780fcce040542c8e8fd67f22c56"
 metafile = true
@@ -336,28 +386,8 @@ hash = "d00a10dc69d3af97ea2f5d22bab1d0cbb667ccf1d72740dc3d6ad563790f2d4a"
 metafile = true
 
 [[files]]
-file = "mods/nuit-interop.pw.toml"
-hash = "556fddf5f52f49d9acf41e4db737e5431c1b45e60f5e0c04ca1de70b01dd1d15"
-metafile = true
-
-[[files]]
-file = "mods/nuit.pw.toml"
-hash = "c78c2d26feb460adb112cda9ec5073f8968298f1d215eb8679fd67f55f3c3124"
-metafile = true
-
-[[files]]
 file = "mods/optigui.pw.toml"
 hash = "43aea184f4522b8219d178ba91e12874e3f2e22ac32fcd72a22519ddcdc671ce"
-metafile = true
-
-[[files]]
-file = "mods/owo-lib.pw.toml"
-hash = "60a3d23eb73106ecb6ba5a391d4539e3557cbd9b1f3611a2de08052155d78b3a"
-metafile = true
-
-[[files]]
-file = "mods/paginatedadvancements.pw.toml"
-hash = "110132a70b524eaadb750bc110c9344d84432da97a5434ae185e815d778d21f0"
 metafile = true
 
 [[files]]
@@ -371,18 +401,8 @@ hash = "2a03691b8b7b51c05a54ca26982962a18df989c60bfe05e8c2828633cf9b1a6d"
 metafile = true
 
 [[files]]
-file = "mods/polytone.pw.toml"
-hash = "5c0dd0b71231d749b18d77ec75cbe08d169463bf6d5623a88d60302cba3a736e"
-metafile = true
-
-[[files]]
 file = "mods/puzzle.pw.toml"
 hash = "6d9742689a524965f89b5cb1194e4422f2454911a026fd9e98dce82db4a12157"
-metafile = true
-
-[[files]]
-file = "mods/raised-clouds.pw.toml"
-hash = "894ad6d211b953322fcae0d511e335e333f508a9edb2682d68b119d159e4b83f"
 metafile = true
 
 [[files]]
@@ -393,11 +413,6 @@ metafile = true
 [[files]]
 file = "mods/rrls.pw.toml"
 hash = "05f1af7279a9c9c21e4d3a5ffd2ba0816b8cad9011132da810bbfc79cc468a88"
-metafile = true
-
-[[files]]
-file = "mods/rug.pw.toml"
-hash = "a8a2850708ac58b66206893248fcfdcca6941a071a148c39c6b0d7ff841bc58c"
 metafile = true
 
 [[files]]
@@ -431,18 +446,8 @@ hash = "b48f383658b3d564a166cf6a26f856b5dd2d2aa61995f7a9beb64e72cd716716"
 metafile = true
 
 [[files]]
-file = "mods/squaremap.pw.toml"
-hash = "99acfa7f29bb9a59646dbceec56ce05c17753e148f35b7152de7f7953f76c4d2"
-metafile = true
-
-[[files]]
 file = "mods/syncmatica.pw.toml"
 hash = "5387fec9ef5e8bfb91ca2fadd017332beeab22cad6a78e3195669d4209648042"
-metafile = true
-
-[[files]]
-file = "mods/techutils.pw.toml"
-hash = "9aae11b36577ae4dd279dec0fb5ae75406400181182c19a25a0097a969d1191a"
 metafile = true
 
 [[files]]
@@ -483,11 +488,6 @@ metafile = true
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
 hash = "8dbc902adac712c4f42a5c0ae8e67e7e1eb194deca394eb23e09484ab5044e2b"
-metafile = true
-
-[[files]]
-file = "mods/yaca.pw.toml"
-hash = "06916002f78fa8a1259abc28a35f19eee9e2b628820d310b6863e5c0d7d57fbd"
 metafile = true
 
 [[files]]
